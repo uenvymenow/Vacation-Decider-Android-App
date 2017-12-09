@@ -7,7 +7,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val vacationList = arrayListOf("Orlando", "Savannah", "Sedona", "New York")
+    val vacationList = arrayListOf("Orlando", "Savannah", "Sedona", "New York", "Hong Kong")
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
